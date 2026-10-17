@@ -1,1 +1,11 @@
-# portfolio-demo-04  Node.js Express API demo  ## Overview  This repository is a sample project for a portfolio.  ## Tech Stack  - GitHub - Java / Python / JavaScript / .NET  ## Notes  This sample was created to demonstrate project structure and GitHub publishing workflow.
+# Express API Demo
+
+Node.js Express REST API demo by **Sarath Panguluri**.
+
+```bash
+npm install
+npm start
+# http://localhost:3000/health
+```
+
+Includes `/health` and `/greet/:name`. Not built or tested during publication.
